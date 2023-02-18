@@ -34,7 +34,7 @@ Languages  :  Python/Html/Php/css
 
 
 
-- <p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/950727290621415514.gif?size=40">  
-- <p align="center"> Hi, I’m @Zaphir
+<p align="center"><img align="center" alt="Kyoto-yoda" src="https://cdn.discordapp.com/emojis/950727290621415514.gif?size=40">  
+<p align="center"> Hi, I’m @Zaphir
 
 
