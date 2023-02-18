@@ -26,8 +26,7 @@ Languages  :  Python/Html/Php/css
  <a href="https://discord.gg/vht46Ctmf2" target="_blank"><img src="https://img.shields.io/badge/Discord-server-informational" target="_blank"></a>
 	<div>
 	
-𝙑 𝙞 𝙚 𝙬
-<img src="https://profile-counter.glitch.me/%7Bzaphir-fr%7D/count.svg" style="max-width: 100%;">
+𝙑 𝙞 𝙚 𝙬 <img src="https://profile-counter.glitch.me/%7Bzaphir-fr%7D/count.svg" style="max-width: 100%;">
 
 
 
