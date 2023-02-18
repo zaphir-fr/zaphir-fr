@@ -8,6 +8,6 @@
  <a href="https://t.me/kazamaXfantanyl" target="_blank"><img src="https://img.shields.io/badge/Telegram-click%20us-blue" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Jeu du dinosaure](https://raw.githubusercontent.com/samuelsimoes/chrome-dino-game/master/preview.gif)
  
 </div>
