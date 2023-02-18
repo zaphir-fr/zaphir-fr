@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/samuelsimoes/chrome-dino-game/master/preview.gif"/>
+	![Jeu du dinosaure](https://raw.githubusercontent.com/samuelsimoes/chrome-dino-game/master/preview.gif)
 </p>
